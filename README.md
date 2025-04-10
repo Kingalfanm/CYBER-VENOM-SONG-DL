@@ -41,7 +41,7 @@
   </p>
  <p align="center">
   <a href="https://github.com/DarkSahi75/CYBER-VENOM-SONG-DL">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-CYBER%20DVENOM%20TM%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-CYBER%20VENOM%20TM%20-purple&style=plastic">
 
   </a>
 </p>
