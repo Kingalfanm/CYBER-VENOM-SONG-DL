@@ -34,13 +34,13 @@
     <img src="https://img.shields.io/github/languages/top/DarkSahi75/CYBER-VENOM-SONG-DL?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com//DarkSahi75/CYBER-VENOM-SONG-DL">
+  <a href="https://github.com/DarkSahi75/CYBER-VENOM-SONG-DL">
     <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/DarkSahi75/CYBER-VENOM-SONG-DL">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-CYBER%20DVENOM%20TM%20-purple&style=plastic">
 
   </a>
