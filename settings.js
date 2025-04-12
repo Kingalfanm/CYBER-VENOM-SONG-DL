@@ -11,7 +11,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || '94765527900',
 PREFIX:  process.env.PREFIX || ['.'] ,
 JID: process.env.JID || "120363287634683059@newsletter",
 WACHLINK: process.env.WACHLINK || `https://whatsapp.com/channel/0029Vb8WOgSBPzjfG09WEn10`,
-FOOTER: '> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ & ᴅɪɴᴜᴡᴀ ᴛᴇᴄʜ*',
+FOOTER: '> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀʜᴀꜱ & ᴅɪɴᴜᴡᴀ*',
 DIRECTION: true,
 LOGO: process.env.LOGO || `https://files.catbox.moe/siaqr5.jpg`     
 };
