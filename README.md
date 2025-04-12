@@ -1,7 +1,7 @@
 
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=CYBER-VENOM-SONG-DL;MADE+BY+SAHAS+TECH+AND+DINUWA+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=CYBER-VENOM-SONG-DL;MADE+BY+SAHAS+AND+DINUWA" alt="Typing SVG" /></a>
 
 ***
 
@@ -39,10 +39,7 @@
 
   </a>
   </p>
- <p align="center">
-  <a href="https://github.com/DarkSahi75/CYBER-VENOM-SONG-DL">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-CYBER%20VENOM%20TM%20-purple&style=plastic">
-
+ 
   </a>
 </p>
  
